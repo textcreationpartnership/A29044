@@ -1,0 +1,498 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some receipts of medicines for the most part parable and simple, sent to a friend in America.</title>
+            <author>Boyle, Robert, 1627-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29044</idno>
+            <idno type="STC">Wing B4043</idno>
+            <idno type="STC">ESTC R30854</idno>
+            <idno type="EEBO-CITATION">11670562</idno>
+            <idno type="OCLC">ocm 11670562</idno>
+            <idno type="VID">48051</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48051)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1479:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some receipts of medicines for the most part parable and simple, sent to a friend in America.</title>
+                  <author>Boyle, Robert, 1627-1691.</author>
+               </titleStmt>
+               <extent>[10], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, printed :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Boyle by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Formulae, receipts, prescriptions.</term>
+               <term>Pharmacopoeias.</term>
+               <term>Dispensatories.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48051:1" rendition="simple:additions"/>
+            <p>SOME RECEIPTS OF <hi>Medicines.</hi> For the moſt part PARABLE and SIMPLE. Sent to a Friend in <hi>America.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1688.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:48051:2"/>
+            <pb facs="tcp:48051:2"/>
+            <head>The INTRODUCTION.</head>
+            <p>THE following Preſcripti<g ref="char:EOLhyphen"/>ons being but part of a Collection of Receipts and Proceſſes, that had from time to time been recommended to me, either by the Experience of the Imparters, or by my Own: I did not think it <hi>ſo</hi> Expedient to pre<g ref="char:EOLhyphen"/>miſe, to ſo ſmall a Number of ſlight Receipts, the ſeveral Medi<g ref="char:EOLhyphen"/>cinal Cautions and other Conſi<g ref="char:EOLhyphen"/>derations, wherewith it might be fit to uſher in a larger Writing of this nature; <hi>as</hi> to reſerve thoſe <hi>Prolegomena</hi> for the whole Collec<g ref="char:EOLhyphen"/>tion, whereof that which now appears makes but a Part, and that not the greateſt. Which Intima<g ref="char:EOLhyphen"/>tion will, I hope, Excuſe my leaving unmention'd the Names of the Imparters of ſeveral of theſe Receipts: Since all of them are
+<pb facs="tcp:48051:3"/>tranſcrib'd from the Collection; And the Reaſon of the Omiſſion is given in the Preamble, together with divers Advertiſements about the Work it ſelf, which diſpenſe me from giving any Others at pre<g ref="char:EOLhyphen"/>ſent, than thoſe very few which ſeem'd requiſite to be ſent about the following Paper, to the Inqui<g ref="char:EOLhyphen"/>ſitive Dr. <hi>W. A.</hi> practiſing Phyſick in <hi>New England:</hi> who earneſtly deſir'd of me ſome Receipts, that, being Parable or Cheap, might eaſily be made Serviceable, eſpe<g ref="char:EOLhyphen"/>cially to the Poor, in that Coun<g ref="char:EOLhyphen"/>try; where European Books of Phyſick are too great Rarities, and ſeveral Remedies here known are not in uſe.</p>
+            <p>The Beginning of my Letter to Dr. <hi>A.</hi> conſiſting mainly of things that regarded his peculiar Circum<g ref="char:EOLhyphen"/>ſtances, 'tis Needleſs, if not Im<g ref="char:EOLhyphen"/>proper, to tranſcribe it hither, and
+<pb facs="tcp:48051:3"/>conſequently it ought not to keep me from proceeding without delay, to the next part of the ſame Letter, which gives him the three follow<g ref="char:EOLhyphen"/>ing</p>
+         </div>
+         <div type="notice">
+            <head>Advertiſements.</head>
+            <p n="1">
+               <hi>I.</hi> 'T Would be a great Miſtake of my Deſign in ſending you the following Receipts, if you ſhould think that I at all pretend them to be Infallible Ones; or at leaſt of very Extraordinary Efficacy: Since all that I told you of them, was, That, for Medicines ſo Simple, and for the moſt part ſo Cheap, I have <hi>found</hi> ſeveral of them, and <hi>take</hi> all of them, to be good in their kind. And tho' I think moſt of them Safer than many other Medicines that are in great re<g ref="char:EOLhyphen"/>queſt, yet I do not pretend, that theſe ſhould play the part both of Me<g ref="char:EOLhyphen"/>dicines and Phyſicians too; but only that they may be <g ref="char:V">Ʋ</g>ſefully employ'd,
+<pb facs="tcp:48051:4"/>by One that, like You, knows how to adminiſter them Diſcreetly. In ſhort; I ſay not that theſe Medicines are the <hi>Beſt</hi> I have, but only ſome of the <hi>moſt Parable,</hi> or <hi>Simple:</hi> Both which I here mention together, as if the latter were referable to the for<g ref="char:EOLhyphen"/>mer; not only becauſe Medicines that are <hi>Simple</hi> or but very little Com<g ref="char:EOLhyphen"/>pounded, are <hi>ceteris paribus</hi> more eaſie to be procur'd; but becauſe I am willing that this ſhort Collection ſhould furniſh you with divers In<g ref="char:EOLhyphen"/>ſtances to confirm the Paper, to which I deſire you would ſubjoyn it, <hi>of the Uſefulneſs of Simple Me<g ref="char:EOLhyphen"/>dicines.</hi>
+            </p>
+            <p n="2">
+               <hi>II</hi> IT may ſomewhat aſſiſt you, to make a Comparative Eſtimate of the following Receipts, if I diſtinguiſh them into three <hi>Claſſes</hi> or Orders, and annex to the Title, or Deſcription, of almoſt each particular Medicine, one of the three firſt Letters of the
+<pb facs="tcp:48051:4"/>Alphabet. Whereof <hi>A</hi> ſignifies that the Remedy it belongs to, hath been, <hi>either</hi> by the Affirmation of the Phy<g ref="char:EOLhyphen"/>ſician, or other Credible Perſons that imparted it to me, <hi>or</hi> by Tryals that I caus'd to be made of it; recom<g ref="char:EOLhyphen"/>mended as very Conſiderable and Effi<g ref="char:EOLhyphen"/>cacious in its kind. <hi>A</hi> therefore is the Mark of a Remedy of the higheſt <hi>Claſſis</hi> of theſe. <hi>B</hi> denotes, that That which it refers to, is of a Second or Inferior ſort, but yet conſiderable for its good Operations. And the Letter <hi>C</hi> belongs to thoſe Remedies that are of the Loweſt Order, tho' good enough not to be deſpis'd.</p>
+            <p>And becauſe I preſume it may be expected, that I ſhould give you ſome ſhort Character, of thoſe whereof I have had ſome kind of Experience; <hi>whether</hi> by the Relations of ſuch as have been Cur'd, or much Reliev'd by them; <hi>or</hi> by my own Exhibiting or Preſcribing them; <hi>or</hi> by Reports re<g ref="char:EOLhyphen"/>ceiv'd from thoſe that engag'd to
+<pb facs="tcp:48051:5"/>try them, or that employ'd them upon my account: For this Reaſon, I ſay, and for Brevity's ſake, and avoiding Repetitions, I thought fit to accompany almoſt each of the three foremention'd Alphabetical Letters, that refers to a Receipt, of which I can ſay any thing upon ſome kind of knowledge of my own, with one of the three following Marks: Whereof the Firſt, which is the ſmall Figure of <hi>One (1)</hi> denotes that I have known but a ſingle Tryal made of it; the Other, which is a ſimple Croſs <hi>(x)</hi> imports that the Tryals have been made two, or ſome few more times; and the Third, which is an Aſterisk (conſiſting of ſeveral Lines croſſing each other in one Point (*) ſignifies that the Tryals wherein it hath been found uſeful, were many, if not very many.</p>
+            <p n="3">
+               <hi>III.</hi> THere will eaſily be obſerved a Diſparity of Style in the following Papers. For thoſe Receipts
+<pb facs="tcp:48051:5"/>that were my Own, were expreſs'd in my Own Terms; and ſo uſually were thoſe that I receiv'd from Others but by word of Mouth: And Theſe, I hope, will be found clearly enough deliver'd. But as to thoſe Others, that were imparted to me by Empy<g ref="char:EOLhyphen"/>ricks or <g ref="char:V">Ʋ</g>nlearned Perſons, in Writing; tho' I would not in divers places have worded them as they did that I had them from, yet I often<g ref="char:EOLhyphen"/>times made a ſcruple to Correct or Alter their Expreſſions; tho' not ſuitable to the currant Style of the Formulary's of Receipts: Being more concern'd that the Meaning ſhould be cloſe kept to, than the Style rectify'd. And ſometimes too, when I received things by word of Mouth, and committed them to Paper in the Authors preſence, haſte oblig'd me to make uſe of Expreſſions, (and made me afterwards forget to mend them,) that were rather the Shorteſt
+<pb facs="tcp:48051:6"/>than the Beſt: And ſometimes forc'd me to employ words of the Latine, French, or ſome other Language: eſpecially if I wrote after the In<g ref="char:EOLhyphen"/>ſtructions of Forreigners, being leſs careful to expreſs things in the Fitteſt way I could, than in the moſt Com<g ref="char:EOLhyphen"/>pendious.</p>
+            <p>You will receive by this Ship but five Decads of Receipts of Parable Medicines, becauſe I think that Num<g ref="char:EOLhyphen"/>ber ſufficient to be ſent at once. But if, when you have Try'd them, the Succeſs that God ſhall vouchſafe to give them, ſhall invite you to preſs for a Recruit, I ſhall thereby be encourag'd to draw ſome other Decads of Receipts (ſome of which will perhaps be preferable to moſt of Theſe) out of a Collection, wherein they have long lain mingled with Receipts and Proceſſes of Re<g ref="char:EOLhyphen"/>medies of a leſs Simple Nature, or more difficult to be Procur'd.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:48051:6"/>
+            <head>DECAD I.</head>
+            <div n="1" type="recipe">
+               <head>I. <hi>For Coughs, eſpecially ſuch as proceed from thin Rheumes.</hi>
+               </head>
+               <p>
+                  <hi>B. REcipe</hi> of choice <hi>Olibanum</hi> finely powder'd from ℈j. to <g ref="char:dram">ʒ</g>ſs. and mix carefully with it, an equal weight of Sugar-candy (white or brown,) or, in want of that, of fine Sugar; and let the Patient take it at Bed-time in the Pap of an Apple, or ſome other proper Additament, for ſeveral nights together: If it be found needful, it may be taken at any other time, when the Stomach is empty.</p>
+            </div>
+            <div n="2" type="recipe">
+               <pb n="2" facs="tcp:48051:7"/>
+               <head>II. <hi>To give Eaſe in the Pains of the Stone, even that of the Bladder.</hi>
+               </head>
+               <p>
+                  <hi>A</hi> ℞ the tranſparent <hi>Sparr</hi> that grows upon the Veins <hi>of Lead-ore,</hi> and having reduc'd it to fine Powder, give from <g ref="char:dram">ʒ</g>ſs. to <g ref="char:dram">ʒ</g>j. of it at a time, in a moderate draught of ſome conve<g ref="char:EOLhyphen"/>nient Vehicle. <hi>N. B.</hi> Tho' there be (at leaſt in moſt of our Engliſh Mines) two Teguments, as it were, of the Veins of Lead, that grow cloſe to<g ref="char:EOLhyphen"/>gether; yet that which the Diggers name <hi>Cawk,</hi> which is White and Opa<g ref="char:EOLhyphen"/>cous, is not the Medicine I mean, but the Tranſparent, or at leaſt Semi-Dia<g ref="char:EOLhyphen"/>phanous; which eaſily breaks into ſmooth Fragments, and in the Fire cleaves into ſeveral pieces, that are wont to be ſmooth, and prettily ſhap'd.</p>
+            </div>
+            <div n="3" type="recipe">
+               <head>III. <hi>For Sharpneſs of <g ref="char:V">Ʋ</g>rine.</hi>
+               </head>
+               <p>
+                  <hi>B</hi> ℞ of the dry ſtuff that divides the Lobes of the Kernerls of Walnuts, beat them to Powder, and of this give about
+<pb n="3" facs="tcp:48051:7"/>
+                  <g ref="char:dram">ʒ</g>ſs. at a time, in a draught of White<g ref="char:EOLhyphen"/>wine, or Poſſet-drink made with it, or in any other convenient Liquor.</p>
+            </div>
+            <div n="4" type="recipe">
+               <head>IV. <hi>To Appeaſe the Violent Pains of the Tooth ach.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> Make up ℈j. of <hi>Pillulae Maſti<g ref="char:EOLhyphen"/>chinae,</hi> and half a grain of <hi>Laudanum,</hi> into two or three Pills for the Patient to take at Bed-time.</p>
+            </div>
+            <div n="5" type="recipe">
+               <head>V. <hi>For Agues.</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> ℞ <hi>Salt of Card. Benedict.</hi> and <hi>Salt of Worm-wood ana</hi> 15 grains, <hi>Tartar Vitriolate</hi> ℈ſs. Mix them, and give them in a few ſpoonfuls of Rheniſh<g ref="char:EOLhyphen"/>wine, or of ſome other convenient Vehicle, either before the Fit, or at ſome other time when the Stomach is Empty.</p>
+            </div>
+            <div n="6" type="recipe">
+               <head>VI. <hi>For the Yellow-Jaundice.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ <g ref="char:dram">ʒ</g>j. of <hi>Caſtle-Soap</hi> (the Elder the better,) ſlice it thin, put it into a
+<pb n="4" facs="tcp:48051:8"/>pint of Small-beer cold, ſet it on the Fire, let it boil gently half away, after boiling ſome time, ſcum it once. Then ſtrain it through a ſmall Sieve, warm it, and drink it all in a Morning, faſt<g ref="char:EOLhyphen"/>ing; take a ſmall lump of Sugar after it, and faſt two or three hours. The Party may walk about his Buſineſs, and eat his accuſtomed Meals. If at any time he drink Wine, let it be White<g ref="char:EOLhyphen"/>wine. <hi>N. B.</hi> If he be far gone in the Diſtemper; two or three days after, he may take it once or twice more, and no oftner. Refrain all other Medi<g ref="char:EOLhyphen"/>cines; It will keep a Week or longer.</p>
+            </div>
+            <div n="7" type="recipe">
+               <head>VII. <hi>For the Jaundice.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ ij. or ℥iij. of <hi>Semen Cannabis (Hempſeed)</hi> and boil them till the Seeds (ſome of them) begin to burſt, and a little longer, in a ſufficient quan<g ref="char:EOLhyphen"/>tity of New Milk, to make one good draught; which the Patient is to take warm, renewing it, if need be, for ſome days together.</p>
+            </div>
+            <div n="8" type="recipe">
+               <pb n="5" facs="tcp:48051:8"/>
+               <head>VIII. <hi>For the Dyſentery.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ <hi>Pigs-dung,</hi> dry it and burn it to gray (not white) Aſhes; of theſe give about <g ref="char:dram">ʒ</g>ſs. for a Doſe, drinking after them about three Spoonfuls of Wine-Vinegar.</p>
+            </div>
+            <div n="9" type="recipe">
+               <head>IX. <hi>For the Kings-Evil.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ <hi>Cuttle-bone</hi> uncalcin'd, and having ſcrap'd off the out-ſide or co<g ref="char:EOLhyphen"/>loured part, dry the white part; and of this, finely powder'd, give <g ref="char:dram">ʒ</g>ſs. for a Doſe in <hi>Aqua Malvae.</hi>
+               </p>
+            </div>
+            <div n="10" type="recipe">
+               <head>X. <hi>A Safe and eaſie Medicine in Fits of the Stone.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ Sack, or, in want of that, Claret<g ref="char:EOLhyphen"/>wine, and by ſhaking or otherwiſe mix with it as well as you can, an equal quantity of <hi>Oyl of Walnuts;</hi> and of this Mixture give from 4 or 6 to 8 or 10 ounces at a time as a Gly<g ref="char:EOLhyphen"/>ſter.</p>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb n="6" facs="tcp:48051:9"/>
+            <head>DECAD II.</head>
+            <div n="1" type="recipe">
+               <head>I. <hi>For Convulſions, eſpecially in Children.</hi>
+               </head>
+               <p>
+                  <hi>B. Recipe Earth-worms,</hi> waſh them well in Whitewine to cleanſe them, but ſo as that they may not die in the Wine. Then upon hollow Tiles, or between them, dry the Worms with a moderate heat, and no further than that they may be conveniently reduc'd to Powder; to ℥j. of which add a pretty number of grains of <hi>Ambergriſe,</hi> both to Perfume the Powder, (whoſe ſcent of it ſelf is rank) and to make the Medicine more Efficacious. The Doſe is from <g ref="char:dram">ʒ</g>j. to <g ref="char:dram">ʒ</g>jſs. in any con<g ref="char:EOLhyphen"/>venient Vehicle.</p>
+            </div>
+            <div n="2" type="recipe">
+               <head>II. <hi>For the Pyles.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ the Powder of <hi>Earth-worms</hi> prepar'd as in the former Receipt, (but leaving out the Ambergriſe,)
+<pb n="7" facs="tcp:48051:9"/>and incorporate it exactly with as much Hens-greaſe, as will ſerve to make it up into an Oyntment. Apply this to the Part affected, whoſe Pains it uſually much and ſafely mitigates.</p>
+            </div>
+            <div n="3" type="recipe">
+               <head>III. <hi>To make Lime-water <g ref="char:V">Ʋ</g>ſeful in divers Diſtempers.</hi>
+               </head>
+               <p>
+                  <hi>C.</hi> ℞ one pound of good <hi>Quick<g ref="char:EOLhyphen"/>lime,</hi> and ſlake it in a gallon of warm Water, and let it ſtand till all that will ſubſide be ſettled at the bottom, and (Separation being made) the Water ſwim clear at the top. (At which time it will often happen, that a kind of thin and brittle ſubſtance, almoſt like Ice, will cover the Surface of the Liquor;) As ſoon as the <hi>Water</hi> is thus ſufficiently impregnated, delay not to pour it off warily, and keep it very well ſtopt for Uſe.</p>
+            </div>
+            <div n="4" type="recipe">
+               <pb n="8" facs="tcp:48051:10"/>
+               <head>IV. <hi>A Lime-water for Obſtructions and Conſumptions.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ a Gallon of <hi>Lime-water</hi> made as above, and infuſe in it cold, <hi>Saſſafras, Liquorice,</hi> and <hi>Anyſeeds,</hi> of each ℥iv. adding thereto <abbr>lb</abbr>ſs. of choice Currants, or the like quantity of ſlic'd <hi>Rayſins of the Sun:</hi> The Doſe of this compound Lime-water is ℥iv. or v. to be taken twice a day.</p>
+            </div>
+            <div n="5" type="recipe">
+               <head>V. <hi>An Amulet againſt Agues, eſpecially Tertian.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ a handful of <hi>Groundſil,</hi> ſhred and cut it ſmall, put it into a ſquare Paper-bag of about four Inches every way, pricking that ſide that is to be next the Skin, full of large holes; and cover it with ſome Sarcenet or fine Linnen, that nothing may fall out. Let the Patient wear this upon the Pit of his Stomach, renewing it two hours before every Fit.</p>
+            </div>
+            <div n="6" type="recipe">
+               <pb n="9" facs="tcp:48051:10"/>
+               <head>VI. <hi>For Women in Labour to bring away the Child.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ about <g ref="char:dram">ʒ</g>j. of choice <hi>Myrrh,</hi> and having reduc'd it to fine Powder, let the Patient take it in a draught of Rheniſh-wine or Sack; or, if you would have the Liquor leſs active, White-wine, Poſſet-drink, or ſome other temperate Vehicle.</p>
+            </div>
+            <div n="7" type="recipe">
+               <head>VII. <hi>For Strengthning the Bowels.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ Cloves or Chives (not Bulbs) of <hi>Garlick,</hi> and let the Patient from time to time ſwallow one or two, with<g ref="char:EOLhyphen"/>out chewing.</p>
+            </div>
+            <div n="8" type="recipe">
+               <head>VIII. <hi>An Amulet againſt the Cramp.</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> ℞ the Root of <hi>Mechoacan,</hi> and having reduc'd it to Powder, fill with this Powder a little ſquare Bag or Sacket of Sarcenet, or ſome ſuch ſlight Stuff; which Bag is to be about three Inches ſquare, and to be hung by a ſtring about
+<pb n="10" facs="tcp:48051:11"/>the Patient's Neck, ſo as that it may reach to the Pit of the Stomach, and immediately touch the Skin.</p>
+            </div>
+            <div n="9" type="recipe">
+               <head>IX. <hi>For ſtanching of Blood, eſpecially in Wounds.</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> ℞ thoſe round Muſh-rooms that Botaniſts call <hi>Crepitus Lupi,</hi> (in Engliſh <hi>Puffe-balls,</hi>) when they are full ripe, (which is in Autumn;) and breaking them warily, ſave carefully the Powder that will fly up, and the reſt that re<g ref="char:EOLhyphen"/>mains in their Cavities: and ſtrew this Powder all over the Part affected, bind<g ref="char:EOLhyphen"/>ing it on, or proceeding further, if need be, according to Art.</p>
+            </div>
+            <div n="10" type="recipe">
+               <head>X. <hi>For the Tumours and Pains of the Hemorrhoides, not too much inflam'd.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> Let the Patient dip his Finger in <hi>Balſom of Sulphur</hi> made with Oyl of Turpentine, and with his Finger ſo beſmear'd anoint the Tumours, whether External or Internal, once or twice a day.</p>
+            </div>
+         </div>
+         <div n="3" type="part">
+            <pb n="11" facs="tcp:48051:11"/>
+            <head>DECAD. III.</head>
+            <div n="1" type="recipe">
+               <head>I. <hi>For the Dyſentery and other ſharp Fluxes.</hi>
+               </head>
+               <p>
+                  <hi>A. REcipe</hi> the Stalks and Leaves of the Herb call'd in Latin <hi>Co<g ref="char:EOLhyphen"/>niza Media</hi> (in Engliſh <hi>Flea-bane</hi>) dry it gently, till it be reducible to Pow<g ref="char:EOLhyphen"/>der; of this Powder give about <g ref="char:dram">ʒ</g>j. at a time, twice or thrice a day, in any convenient Vehicle; or elſe incorpo<g ref="char:EOLhyphen"/>rate it in Conſerve of red Roſes.</p>
+            </div>
+            <div n="2" type="recipe">
+               <head>II. <hi>To Sweeten the Blood, and Cure divers Diſtempers cauſed by its Acidity.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ <hi>Coral,</hi> the cleareſt and reddeſt you can get; reduce it, (by exactly grinding it on a Porphiry, or Marble Stone,) to an impalpable Powder. Of this Magiſtery made without Acids, give the Patient once or twice a day
+<pb n="12" facs="tcp:48051:12"/>(as need ſhall require) a large Doſe, <hi>viz.</hi> ordinarily about <g ref="char:dram">ʒ</g>j. at a time, or from ℈ij. to ℈v. <hi>N. B.</hi> Let him long continue the uſe of it.</p>
+            </div>
+            <div n="3" type="recipe">
+               <head>III. <hi>To clear the Eyes, even from Filmes.</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> ℞ Paracelſus's <hi>Zibetum Occidentale</hi> (<hi>viz.</hi> human dung) of a good colour and conſiſtence, dry it ſlowly till it be pulverable: Then reduce it into an impalpable Powder; which is to be blown once, twice, or thrice a day, as occaſion ſhall require, into the Patients Eyes.</p>
+            </div>
+            <div n="4" type="recipe">
+               <head>IV. <hi>For Convulſions in Children.</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> Give the Patient from 2, 3, or 4, to 5, 6, or 7 gr. according to the Child's Age, of the true <hi>Volatile Salt of Amber,</hi> in any proper Vehicle. <hi>N. B.</hi> 'Tis not near ſo Efficacious in full grown Perſons.</p>
+            </div>
+            <div n="5" type="recipe">
+               <pb n="13" facs="tcp:48051:12"/>
+               <head>V. <hi>To bring away the After-birth.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> Give about 30 drops, or any Number between 25. and 35. of good Eſſential (as Chymiſts call it) <hi>Oyl of Ju<g ref="char:EOLhyphen"/>niper,</hi> in a good Draught of any con<g ref="char:EOLhyphen"/>venient Vehicle.</p>
+            </div>
+            <div n="6" type="recipe">
+               <head>VI. <hi>To Strengthen the Stomach, and help the Want of Appetite.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> Make the <hi>Roots of Gentian</hi> (ſound and not ſuperannuated) pulverable, with no greater waſte of their Moiſture than is neceſſary. Reduce theſe to Powder; of which let the Patient take from 12 or 15 gr. to double that quan<g ref="char:EOLhyphen"/>tity (or more if need be) twice or thrice a day. <hi>N. B.</hi> It may be taken on an empty Stomach, or, if that can<g ref="char:EOLhyphen"/>not conveniently be done, at Meal<g ref="char:EOLhyphen"/>times. To Correct the Bitterneſs, one may add to it power'd Sugar, or make it up with ſome fit Conſerve, or mix it with a Syrup. It is very good not only for Want of Appetite, but for
+<pb n="14" facs="tcp:48051:13"/>Obſtructions.: And I <hi>(R. B.)</hi> have uſe<g ref="char:EOLhyphen"/>fully given it in Vertiginous Affections of the Brain, and to leſſen, if not quite take away, the Fits of Agues, and even Quartans. But in this laſt Caſe the Doſe muſt be conſiderably augmented. One may alſo, if one pleaſes, inſtead of the Powder, give the Extract drawn with fair Water, and, for thoſe that like that form, made up into Pills with a <hi>ſ. q.</hi> of powder'd Tumeric, or the like proper Additament; to which I have ſometimes added ſome grains of <hi>Salt of Worm-wood</hi> with very good ſucceſs, in Fluxes that proceeded from Crudities and Indigeſtion. Where the Winter-Seaſon or the Patients Cold Conſtitution invite, or the Medicine is to be long kept, I chuſe rather to make the Extract with Wine moderately ſtrong, than with Water.</p>
+            </div>
+            <div n="7" type="recipe">
+               <head>VII. <hi>For <g ref="char:V">Ʋ</g>lcers in the Breaſt and elſewhere.</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> ℞ <hi>Millepedes</hi> (in Engliſh by Some call'd <hi>Wood-Lice,</hi> by others <hi>Sows,</hi>) and
+<pb n="15" facs="tcp:48051:13"/>having waſh't them clean with a little White-wine, and dry'd them with a Linnen Cloth, beat them very well in a Glaſs or Marble Mortar (for they ought not to be touch'd with any thing of Metal) and give the firſt time as much Juice, as you can by ſtrong Ex<g ref="char:EOLhyphen"/>preſſion obtain from five or ſix of them. This Juice may be given in Small-Ale or White-wine, in which the next time you may give as much as can be ſqueez'd out of eight or nine <hi>Millepedes;</hi> and ſo you may continue, increaſing the number that you employ of them by two or three at a time, till it amount to twenty five or thirty; and if need be, to forty or more, for one taking. And Note, that if upon the Pounding of theſe Inſects, you ſind the Maſs they afford too dry, as it now and then hap<g ref="char:EOLhyphen"/>pens; you may dilute it with a little White-wine or Ale, to. be well agita<g ref="char:EOLhyphen"/>ted with it, that being penetrated, and ſo ſoftned, with the Liquor, the Maſs may the better part with its Juice.</p>
+            </div>
+            <div n="8" type="recipe">
+               <head>VIII. <hi>For taking off the Fits of Agues.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ good common <hi>Brimſtone</hi> (not
+<pb n="16" facs="tcp:48051:14"/>
+                  <hi>Flores Sulphuris</hi>) and having reduc'd them, by paſſing them through a very fine Sieve, to the ſubtileſt Powder you can; give of this Powder <g ref="char:dram">ʒ</g>iſs. or <g ref="char:dram">ʒ</g>ij. either made up into a <hi>Bolus</hi> with a little good <hi>Honey,</hi> or elſe in any appropria<g ref="char:EOLhyphen"/>ted Vehicle; let it be given at the uſual times, and reiterated once or twice, if need be, eſpecially if the Fits ſhould return.</p>
+            </div>
+            <div n="9" type="recipe">
+               <head>IX. <hi>For Fluxes, eſpecially accompanied with Gripings.</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> ℞ of <hi>Crude Lapis Calaminaris</hi> ſine<g ref="char:EOLhyphen"/>ly powder'd ℈ij. of <hi>white Chalk</hi> ℈j. mix them exactly, and give them in a ſpoonful or two of New Milk twice, or, if the caſe be urgent, thrice a day.</p>
+            </div>
+            <div n="10" type="recipe">
+               <head>X. <hi>For the Pains of the Piles.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ of <hi>Myrrh, Olibanum,</hi> and com<g ref="char:EOLhyphen"/>mon <hi>Frankincenſe,</hi> of each a like quan<g ref="char:EOLhyphen"/>tity; having powder'd them, mix them very well, and let the Patient re<g ref="char:EOLhyphen"/>ceive the Fume of this Mixture, caſt up<g ref="char:EOLhyphen"/>on a Chaffen-diſh with Embers, in a Cloſe-ſtool, for about a quarter of an hour, (leſs or more, as he needs it, and is able to bear it.)</p>
+            </div>
+         </div>
+         <div n="4" type="part">
+            <pb n="17" facs="tcp:48051:14"/>
+            <head>DECAD. IV.</head>
+            <div n="1" type="recipe">
+               <head>I. <hi>For an Outward Contuſion.</hi>
+               </head>
+               <p>
+                  <hi>C.</hi> APply to the Part affected, skim'd or purify'd <hi>Honey</hi> ſpread upon Cap-Paper, to be kept on with ſome convenient Plaiſter, or the like Bandage, and ſhifted once or twice a day.</p>
+            </div>
+            <div n="2" type="recipe">
+               <head>II. <hi>Another for the ſame.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> Beat <hi>Aloes Succotrina</hi> (or elſe <hi>Hepatica</hi>) to fine Powder; then pour on it as much Roſe-water as you gueſs may diſſolve a great part of it. This done, ſtir them well for a while, and when the Mixture is ſetled, pour off the Liquor, and in it dip Linnen Rags, which being applied to the Part affect<g ref="char:EOLhyphen"/>ed, will ſoon ſtick to it, and ſeldom need be remov'd till the Patient be re<g ref="char:EOLhyphen"/>liev'd; and then to get them off, the Rags muſt be well wetted with warm Water, which will ſoften and looſen the adhering <hi>Aloes.</hi>
+               </p>
+            </div>
+            <div n="3" type="recipe">
+               <pb n="18" facs="tcp:48051:15"/>
+               <head>III. <hi>For a ſlighter Excoriation.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> Melt <hi>Mutton-Suet</hi> taken from about the Kidneys, and freed from its ſuperfluous Fibres or Strings, and to about ℥ij. of this add little by little about 16 or 18 drops (ſometimes 8 or 10 may ſerve) of <hi>Oyl</hi> (not <hi>Aethereal Spirit) of Turpentine;</hi> ſpread this Mix<g ref="char:EOLhyphen"/>ture on a Linnen Cloth, and by bind<g ref="char:EOLhyphen"/>ing or otherwiſe, keep it upon the Part affected.</p>
+            </div>
+            <div n="4" type="recipe">
+               <head>IV. <hi>For an Excoriation, when the true Cutis is affected.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ <hi>Prunella</hi> (in Engliſh <hi>Self-heal</hi>) and having pounded it very well in a Marble or Glaſs Mortar, (not one of Metal,) apply it to the Part affected, renewing it but ſeldom, and not with<g ref="char:EOLhyphen"/>out need.</p>
+            </div>
+            <div n="5" type="recipe">
+               <head>V. <hi>To take off the Pain and Inflammation of <g ref="char:V">Ʋ</g>lcers in the Legs and elſewhere.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> In a quart of Water boil about ſo much <hi>White-bread,</hi> as in ordinary years may be found in a Halfpenny-Loaf; then add to it ℥ij. of good <hi>Sheeps Suet</hi>
+                  <pb n="19" facs="tcp:48051:15"/>cut very ſmall; and when that is boil'd a little, add to it ℥j. of finely pow<g ref="char:EOLhyphen"/>der'd <hi>Roſin,</hi> and a little well ſearc'd <hi>Brimſtone:</hi> Of theſe make a Cataplaſm, which is to be kept conſtantly on the Part affected, and ſhifted once or twice a day, as need ſhall require.</p>
+            </div>
+            <div n="6" type="recipe">
+               <head>VI. <hi>For a Cough, eſpecially accompany'd with a Tickling Rheum.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ equal Parts of finely pow<g ref="char:EOLhyphen"/>der'd <hi>Olibanum</hi> and <hi>Venice Treacle;</hi> in<g ref="char:EOLhyphen"/>corporate them exactly, and of this Maſs from Pills of what bigneſs you pleaſe. Of theſe let the Patient take about <g ref="char:dram">ʒ</g>ſs. at Bed-time, or, if need be, ℈j. (or more) twice a day.</p>
+            </div>
+            <div n="7" type="recipe">
+               <head>VII. <hi>To prevent the Tooth-ach, and keep the Teeth ſound.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> Let the Patient frequently rub his Teeth moderately with the <hi>Aſhes</hi> that remain in <hi>Tobacco-pipes,</hi> after the reſt of the Body hath been conſum'd in Smoak; ſometimes after waſhing (if need be) his Mouth with fair Water not too cold.</p>
+            </div>
+            <div n="8" type="recipe">
+               <pb n="20" facs="tcp:48051:16"/>
+               <head>VIII. <hi>For a Rupture, eſpecially in a Child or Young Perſon.</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> ℞ of that <hi>Geranium</hi> or <hi>Cranes<g ref="char:EOLhyphen"/>bill</hi> that is commonly call'd <hi>Columbinum,</hi> reduce the <hi>Root</hi> and <hi>Leaves</hi> to fine Pow<g ref="char:EOLhyphen"/>der, and of this let the Patient take about half a ſpoonful Night and Morn<g ref="char:EOLhyphen"/>ing for three or four Weeks together, waſhing it down each time with ſome ſpoonfuls of red Wine.</p>
+            </div>
+            <div n="9" type="recipe">
+               <head>IX. <hi>For the Heart-burning, as they call it.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ from 15. or 20. to 30. or 40. grains of <hi>Crabs-Eyes</hi> (known common<g ref="char:EOLhyphen"/>ly in the Shops by the name of <hi>Lapides Cancrorum</hi>) reduc'd to very fine Pow<g ref="char:EOLhyphen"/>der, and either take it alone, or in any convenient Conſerve or Syrup. 'Tis for the moſt part beſt to take this Me<g ref="char:EOLhyphen"/>dicin, when the Stomach is empty.</p>
+            </div>
+            <div n="10" type="recipe">
+               <head>X. <hi>For a Strain.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ the ſtrongeſt <hi>Vinegar</hi> you can get, and boil in it a convenient quan<g ref="char:EOLhyphen"/>tity of Wheat-Bran, till you have brought it to the conſiſtence of a Poul<g ref="char:EOLhyphen"/>teſs. Apply this as early as may be to the Part affected, and renew it when it begins to grow dry.</p>
+            </div>
+         </div>
+         <div n="5" type="part">
+            <pb n="21" facs="tcp:48051:16"/>
+            <head>DECAD V.</head>
+            <div n="1" type="recipe">
+               <head>I. <hi>For a Recent Strain.</hi>
+               </head>
+               <p>
+                  <hi>B. REcipe Worm-wood</hi> and pound it very well in a Mortar of Stone or Glaſs; then put to it as much of the <hi>Whites of Eggs</hi> beaten to Water, as may ſerve to make it up into ſuch a Conſi<g ref="char:EOLhyphen"/>ſtence, as may be applied like a Poulteſs to the Part affected.</p>
+            </div>
+            <div n="2" type="recipe">
+               <head>II. <hi>A Strengthning Plaiſter after a Strain, or when there is any Weakneſs in the Joynt.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> Melt down together, and in<g ref="char:EOLhyphen"/>corporate very well, two parts of <hi>Dia<g ref="char:EOLhyphen"/>palma,</hi> and one part of <hi>Emplaſtrum ad Herniam;</hi> ſpread this Mixture, but not very thick, upon Leather, and lay it to the Joynt to be ſtrengthned.</p>
+            </div>
+            <div n="3" type="recipe">
+               <head>III. <hi>For Looſneſſes.</hi>
+               </head>
+               <p>
+                  <hi>C.</hi> Boil a convenient quantity of <hi>Cork</hi> in Spring-water, till the Liquor taſte ſtrong thereof: Of this <hi>Decoc<g ref="char:EOLhyphen"/>tion</hi>
+                  <pb n="22" facs="tcp:48051:17"/>let the Patient drink a moderate draught from time to time, till he find himſelf ſufficiently reliev'd by it.</p>
+            </div>
+            <div n="4" type="recipe">
+               <head>IV. <hi>For Obſtructions, and divers Diſeaſes proceeding thence.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> Let the Patient drink every Morning faſting, a moderate draught of his own <hi>
+                     <g ref="char:V">Ʋ</g>rine</hi> newly made, and (if it can conveniently be,) whilſt 'tis yet warm; forbearing Food for an hour or two after it.</p>
+            </div>
+            <div n="5" type="recipe">
+               <head>V. <hi>For Difficulty of Hearing, from a Cold Cauſe.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> Out of a <hi>Bulbe</hi> or <hi>Root</hi> of <hi>Garlick,</hi> chuſe a <hi>Chive</hi> of a convenient bigneſs; then having paſs'd a fine piece of Thread or Silk through one end of it, that thereby it may be pull'd out at pleaſure, cruſh it a little between your Fingers, and having anointed it all over with <hi>Oyl of Bitter</hi> (<hi>or</hi> in want of that, <hi>Sweet</hi>) <hi>Almonds,</hi> put it into the Cavity of the Patients Ear at Bed-time, and draw it out the next Morning, ſtopping the Ear afterwards with <hi>Black
+<pb n="23" facs="tcp:48051:17"/>Wool;</hi> but if need require, this Ope<g ref="char:EOLhyphen"/>ration is to be reiterated with freſh <hi>Garlick</hi> for ſome days ſucceſſively.</p>
+            </div>
+            <div n="6" type="recipe">
+               <head>VI. <hi>For Ruptures in the Belly, eſpecially in Children.</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> Having well cleans'd the <hi>Roots</hi> of <hi>Sigillum Salamonis,</hi> ſcrape ℥j. of them into a quart of Broth, and let the Patient take a Meſs, or a Porringer full of it for his Break-faſt; or elſe give <g ref="char:dram">ʒ</g>ſs. or ℈ij. of the Powder of it at a time, in any convenient Vehicle.</p>
+            </div>
+            <div n="7" type="recipe">
+               <head>VII. <hi>To give Check to Fits of the Gout, and in ſome meaſure to Prevent them.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ ℥iij. of <hi>Sarſaparilla</hi> ſlic'd and cut thin; to theſe add an equal weight of <hi>Raiſins of the Sun,</hi> rubb'd very clean, but not broken. Put both theſe Ingre<g ref="char:EOLhyphen"/>dients into three quarts of Spring<g ref="char:EOLhyphen"/>water, and let the Veſſel ſtand in a moderate heat, that the Liquor may ſimper for many hours, yet without burſting moſt part of the Rayſons; keep this <hi>Decoction</hi> well ſtopt, and let
+<pb n="24" facs="tcp:48051:18"/>the Patient uſe it for his only Drink, till he need it no longer.</p>
+            </div>
+            <div n="8" type="recipe">
+               <head>VIII. <hi>A Water for <g ref="char:V">Ʋ</g>leers and Sores.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ a Solution of <hi>Venetian Subli<g ref="char:EOLhyphen"/>mate,</hi> and having made with very good <hi>Quick-lime</hi> as ſtrong a Lime-water as you can (ſo that, if it be poſſible, it may bear an Egg) drop this upon the diſ<g ref="char:EOLhyphen"/>ſolv'd <hi>Sublimate,</hi> till it will precipitate no more reddiſh ſtuff at all; (which will not ſo ſoon be done as One that hath not try'd, will imagine:) As ſoon as you perceive that the Liquors act no longer viſibly upon one another, pour the Mixture into a Filter of Cap-Paper, which retaining the Orange colour'd Precipitate, will tranſmit an indiffe<g ref="char:EOLhyphen"/>rently clear Liquor: Which is to be in a Glaſs Viol kept ſtopt for its proper Uſe; namely, that the Part affected may be therewith waſht from time to time, and, if need be, kept cover'd with double Linnen Cloths wetted in the ſame Liquor.</p>
+            </div>
+            <div n="9" type="recipe">
+               <pb n="25" facs="tcp:48051:18"/>
+               <head>IX. <hi>A Plaiſter to Diſcuſs Tumours, or Ripen them if it cannot Diſcuſs them.</hi>
+               </head>
+               <p>
+                  <hi>B.</hi> ℞ of <hi>Yellow Wax, Frankincenſe</hi> and <hi>Roſin,</hi> of each ℥iv. (or <hi>q. ſ.</hi>) melt them together gently, and being ſtrain'd, make up the Maſs into a Roll for Uſe.</p>
+            </div>
+            <div n="10" type="recipe">
+               <head>X. <hi>For the Black-Jaundice it ſelf.</hi>
+               </head>
+               <p>
+                  <hi>A.</hi> ℞ a ſpoonful of <hi>Honey,</hi> boil it gently, and ſcum it, till it come to a good Conſiſtence; then add of <hi>Wheat<g ref="char:EOLhyphen"/>flower</hi> and <hi>Saffron</hi> (reduc'd to a Powder) as much of each as you may take up upon the point of a Knife; and having mixt all well, put it over the Coals again, until it loſe its Smell: After<g ref="char:EOLhyphen"/>wards you may put it into a little Stone or Earthen Pot, and keep it for Uſe; which is, that the Patient take the quantity of a Pea, and anoint the Na<g ref="char:EOLhyphen"/>vil, and fill the Cavity thereof with it; repeating the Application for ſome
+<pb n="26" facs="tcp:48051:19"/>days together, when the Stomach is empty, and abſtaining from Meat and Drink about two hours after the Me<g ref="char:EOLhyphen"/>dicine is us'd.</p>
+            </div>
+            <trailer>The End of the Fifth Decad.</trailer>
+            <pb facs="tcp:48051:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
